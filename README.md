@@ -1,9 +1,9 @@
-###🦝 Ola! me chamo Mauro Grabiel
+### 🦝 Ola! me chamo Mauro Grabiel
 
 ##
 
--👩‍💻 Cursando o 2° período de Analise de Sistemas
--🎨 Atualmente focada em React e JavaScript
+- 👩‍💻 Cursando o 2° período de Analise de Sistemas
+- 🎨 Atualmente focada em React e JavaScript
 
 
 

@@ -1,16 +1,13 @@
-## Hi there 👋
+🦝 Ola! me chamo Mauro Grabiel
+👩‍💻 Cursando o 2° período de Analise de Sistemas
+🎨 Atualmente focada em React e JavaScript
 
-<!--
-**Gabriellobo1/Gabriellobo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <br>
+  <a href="https://github.com/0Mavi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriellobo1&show_icons=true&theme=material-palenight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriellobo1&layout=donut&theme=material-palenight"/>
+
+</div>

@@ -3,7 +3,7 @@
 ##
 
 - 👩‍💻 Cursando o 2° período de Analise de Sistemas
-- 🎨 Atualmente focada em React e JavaScript
+- 🎨 Atualmente focado em React e JavaScript
 
 
 
